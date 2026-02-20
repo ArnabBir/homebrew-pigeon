@@ -1,7 +1,6 @@
 cask 'pigeon' do
   version '1.0.1'
-  sha256 '008e8d734e1762e7844f2c5ac653165d42c44bad0b6731e291577e8b2c870ad0'
-  
+  sha256 '9d094e11be676ed62e4404a5ad3f7e0f69644a810022d775dc8d95ec661e0474' 
   url "https://github.com/ArnabBir/pigeon-releases/releases/download/v#{version}/Pigeon-#{version}.dmg"
   name 'Pigeon'
   desc 'Pigeon | The Universal Client for Every Network Protocol'
